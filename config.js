@@ -7,10 +7,10 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
-  ['xxxxxxxxxx',],
-  //['xxxxxxxxxx'],	
-  ['xxxxxxxxxx',],
+  ['+40790144566', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
+  ['+385903190456',],
+  //['+40790115929'],	
+  ['+393201391411',],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
 ] //Numero degli owner
@@ -66,10 +66,10 @@ global.author = '𝐌𝐝'
 
 global.vs = '𝟐.𝟐'
 
-global.nomebot = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
+global.nomebot = 'UnityBot'
 
 global.multiplier = 69 
-global.maxwarn = '4' 
+global.maxwarn = '6' 
 //════════════ •⊰✧⊱• ════════════
 
 global.wm = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
